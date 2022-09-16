@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Ahsan Zulfiquar's First CS193 Homework
+- The thing I love about CS193 are the lovely instructors who themselves are students but are going out of their way to help us :)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
